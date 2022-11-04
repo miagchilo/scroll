@@ -12,9 +12,9 @@ body {
 	margin: 0;
 	--color-text: rgb(233, 239, 240);
 	--color-bg: #111;
-	--color-link: #aaa;
-	--color-link-hover: #fff;
-	--color-alt: #7f6a57;
+	--color-link: rgb(244, 238, 238);
+	--color-link-hover: rgb(248, 0, 0);
+	--color-alt: #ffffff;
 	color: var(--color-text);
 	background-color: var(--color-bg);
 	-webkit-font-smoothing: antialiased;
